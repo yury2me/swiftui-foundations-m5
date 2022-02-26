@@ -22,6 +22,7 @@
 		C477245827B535190065C3E1 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = C477245727B535190065C3E1 /* Models.swift */; };
 		C477245A27B564F10065C3E1 /* HomeViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C477245927B564F10065C3E1 /* HomeViewRow.swift */; };
 		C477245C27B69B460065C3E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C477245B27B69B460065C3E1 /* ContentView.swift */; };
+		C48E822527CA5421000CA092 /* TestResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48E822427CA5421000CA092 /* TestResultView.swift */; };
 		C4BE2D0927C51B0C001DD1BB /* CodeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BE2D0827C51B0C001DD1BB /* CodeTextView.swift */; };
 		C4D92AB027C6737C006CE505 /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4D92AAF27C6737C006CE505 /* RectangleCard.swift */; };
 /* End PBXBuildFile section */
@@ -43,6 +44,7 @@
 		C477245727B535190065C3E1 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Models.swift; path = ../../../../../../../../../../../../../../Models.swift; sourceTree = "<group>"; };
 		C477245927B564F10065C3E1 /* HomeViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HomeViewRow.swift; path = ../../../../../../../../../../../../../../HomeViewRow.swift; sourceTree = "<group>"; };
 		C477245B27B69B460065C3E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../../../../../../../../../../../../../ContentView.swift; sourceTree = "<group>"; };
+		C48E822427CA5421000CA092 /* TestResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultView.swift; sourceTree = "<group>"; };
 		C4BE2D0827C51B0C001DD1BB /* CodeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTextView.swift; sourceTree = "<group>"; };
 		C4D92AAF27C6737C006CE505 /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,6 +118,7 @@
 				C41193D327BD420B003013FC /* ContentViewRow.swift */,
 				C427FEDD27BE99F80075235F /* ContentDetailView.swift */,
 				C432E6CD27C7909700BD9237 /* TestView.swift */,
+				C48E822427CA5421000CA092 /* TestResultView.swift */,
 				C4BE2D0827C51B0C001DD1BB /* CodeTextView.swift */,
 				C4D92AAF27C6737C006CE505 /* RectangleCard.swift */,
 			);
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C432E6CE27C7909700BD9237 /* TestView.swift in Sources */,
+				C48E822527CA5421000CA092 /* TestResultView.swift in Sources */,
 				C44FCC8627B3D4CB006EFBB2 /* HomeView.swift in Sources */,
 				C477245A27B564F10065C3E1 /* HomeViewRow.swift in Sources */,
 				C477245C27B69B460065C3E1 /* ContentView.swift in Sources */,
